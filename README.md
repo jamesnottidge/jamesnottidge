@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamesnottidge
-- 👀 I’m interested in C++, Data Structures and Algorithms and application software.
-- 🌱 I’m currently learning Data Structures and Algorithms.
+- 👀 I’m interested in C++, java, javaScript, Data Structures and Algorithms, Mobile App Dvelopment .
+- 🌱 I’m currently learning Mobile App Development with Java.
 - 💞️ I’m looking to collaborate on software that makes any existing manaul process/activity simpler for users.
 - 📫 How to reach me ... send me a mail! @freshice57@gmail.com
 
