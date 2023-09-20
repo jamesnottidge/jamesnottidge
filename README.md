@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jamesnottidge
-- 👀 I’m interested in javaScript, Typescript  and Frontend Engineering.
+- 👀 I’m interested in javaScript, Typescript  and Fullstack Engineering.
 - 🌱 I’m currently learning Ruby on Rails 
 - 💞️ I’m looking to contribute to open source in whichever way possible. 
 - 📫 How to reach me ... send me a mail! @freshice57@gmail.com
