@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamesnottidge
-- 👀 I’m interested in javaScript, Typescript  and Fullstack Engineering.
-- 🌱 I’m currently learning Ruby on Rails 
+- 👀 Career Founding Engineer, I love starting new things!
+- 🌱 I’m currently learning Agent Engineering. 
 - 💞️ I’m looking to contribute to open source in whichever way possible. 
 - 📫 How to reach me ... send me a mail! jamesonottidge@gmail.com
 
